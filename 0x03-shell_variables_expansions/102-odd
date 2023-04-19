@@ -1,2 +1,2 @@
 #!/bin/bash
-past -d, . . 
+per| -|ne 'print if $ %2==1'
